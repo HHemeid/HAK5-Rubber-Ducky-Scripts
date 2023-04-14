@@ -1,0 +1,10 @@
+REM Title: Hello World
+REM Description: Opens notepad, types hello world
+REM author: HHemeid
+DELAY 1000
+GUI r
+DELAY 1000
+STRING notepad
+ENTER
+DELAY 1000
+STRING Hello, World!
